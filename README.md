@@ -17,7 +17,7 @@ This code trains a neural network model to classify URLs as phishing or non-phis
 ## Autores
 
 - [@AleFeliphe](https://github.com/AleFeliphe)
-- [@tiagorfm](https://github.com/tiagorfmohr)
+- [@TiagoRFM](https://github.com/tiagorfmohr)
 
 ### Agradecimentos
 - [@theluanz](https://github.com/theluanz)
