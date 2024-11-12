@@ -97,7 +97,7 @@ def load_urls_and_labels(phishing_file, non_phishing_file):
     return urls, labels
 
 # Carregar URLs e rótulos
-phishing_file = "phishing-links-ACTIVE-today.txt"
+phishing_file = "falseurllist.txt"
 non_phishing_file = "trueurllist.txt"
 
 urls, labels = load_urls_and_labels(phishing_file, non_phishing_file)
