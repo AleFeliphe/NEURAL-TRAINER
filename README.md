@@ -5,7 +5,7 @@ Este código treina um modelo de rede neural para classificar URLs como phishing
 This code trains a neural network model to classify URLs as phishing or non-phishing. It extracts features from the URLs, such as length, number of dots, and presence of digits, and uses these to train the model. The training includes techniques to prevent overfitting, such as dropout and dynamic learning rate adjustment. The model and feature scaler are saved for later use.
 
 ## Implementação do código de busca
--[@PHISHING-TESTER](https://github.com/tiagorfmohr/PHISHING-TESTER)
+- [@PHISHING-TESTER](https://github.com/tiagorfmohr/PHISHING-TESTER)
 
 ## Base de Links de Phising
 
